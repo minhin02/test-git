@@ -16,6 +16,10 @@ function App() {
           path: "/dashboard/category",
           element: <Category />,
         },
+        {
+          path: "/dashboard/product",
+          element: <Category />,
+        },
       ],
     },
   ]);
