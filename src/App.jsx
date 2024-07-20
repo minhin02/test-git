@@ -17,7 +17,8 @@ function App() {
           element: <Category />,
         },
         {
-          path: "/dashboard/product",
+          path: "/dashboard/productgit fetch origin
+",
           element: <Category />,
         },
       ],
