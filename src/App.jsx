@@ -16,11 +16,8 @@ function App() {
           path: "/dashboard/category",
           element: <Category />,
         },
-        {
-          path: "/dashboard/productgit fetch origin
-",
-          element: <Category />,
-        },
+        
+        
       ],
     },
   ]);

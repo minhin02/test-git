@@ -1,0 +1,42 @@
+/* src/components/CustomTable/CustomTable.css */
+
+.ant-table-wrapper {
+    width: 100%;
+}
+
+.ant-table {
+    border: 1px solid #e8e8e8;
+}
+
+.ant-table-thead > tr > th {
+    background-color: #f0f0f0;
+    text-align: center !important;
+}
+
+.ant-table-tbody > tr > td {
+    text-align: center !important;
+}
+
+.ant-table-tbody > tr > td img {
+    width: 80px !important;
+    height: auto;
+}
+.btn-add {
+    border: 1px solid #999;
+    padding: 10px 12px;
+    border-radius: 10px;
+    margin: 10px;
+    background: #4da4ff;
+    cursor: pointer;
+    color: white;
+    font-weight: 600;
+    transition: all 0.2s;
+}
+
+.btn-add:hover {
+    background: #3785d8;
+}
+.status {
+    font-weight: 700;
+    font-size: 1rem;
+}
